@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, The Chinese University of Hong Kong (CUHK), 2023 (expected)
+* Overall GPA: 3.80/4.00
 
 Work experience
 ======
@@ -41,8 +42,7 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+For a list of my publications, please check the publication section or my [Google Scholar page](https://scholar.google.com/citations?user=N4Du5-cAAAAJ&hl=zh-TW).
   
 
