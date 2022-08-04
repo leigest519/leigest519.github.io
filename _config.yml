@@ -85,10 +85,8 @@ author:
   bio              : "CS student at CUHK"
   location         : "HKSAR, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&view_op=list_works&gmla=AJsN-F52CX9xPzrUk1gE3n8IDXMaU5w1pzSyHorfGs-J7I7MvPT1Bvl3P4DEL_gbrwrru2cg2ZfNAjzhgkh4FpyAf4_oacnATrI797ozmchWnteS9e67OW8&user=N4Du5-cAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "leigest519"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
