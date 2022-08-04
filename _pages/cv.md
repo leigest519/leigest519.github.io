@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, The Chinese University of Hong Kong (CUHK), 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant
+  * The Chinese University of Hong Kong (CUHK)
+  * I worked on multi-agent system and had one first-author paper accepted by Asian Control Conference 2022.
+  * Supervisor: Professor Dongkun Han
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sep 2020 - April 2021: Research Assistant
+  * Hong Kong University of Science and Technology (HKUST)
+  * I worked on domain adaptation for pre-trained language models. Our work is acceped as an oral paper on ACL 2021.
+  * Supervisor: Professor Tong Zhang
+
+* Oct 2020 - May 2021: CUHK Supercomputing team member
+  * I was a member of the supercomputing team. I was reponsible for a cloze task in the challenge. Our team won the first prize in 2021 ASC supercomputing challenge.
+
+* Summer 2021: Research Assistant
+  * The University of Bristol
+  * I worked on adversarial machine learning from information-theoretic perspective.
+  * Supervisor: Professor Sidharth Jaggi
+
+* Jan 2022 - present: Research Assistant
+  * The Chinese University of Hong Kong (CUHK)
+  * I worked on medical NLP. For the first part, I worked on how to better utilize the pre-trained biomedical sequence language models. Now I am work on utilizing EHR data and time series models for medical prediction. 
+  * Supervisor: Professor Yu LI.
+ 
 
 Publications
 ======
@@ -42,18 +45,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
