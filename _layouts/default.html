@@ -7,19 +7,20 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-  
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2QEV3XYPXL"></script>
-  <script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2QEV3XYPXL"></script>
+    <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'G-2QEV3XYPXL');
-  </script>
+    </script>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  
+
 
   <body>
 
