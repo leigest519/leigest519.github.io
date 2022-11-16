@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year computer science student at CUHK. During my undergraduate study, I have explored various research topics, incluidng multi-agent systems, adversarial machine learning and natural language processing (NLP). I am especially interested in tackling ML problems from mathematical perspective.
+I am currently a fourth-year computer science student at CUHK. During my undergraduate study, I have explored various research topics, incluidng multi-agent systems, adversarial machine learning and natural language processing (NLP). I am especially interested in tackling ML problems from mathematical perspective.
 
